@@ -1,0 +1,5 @@
+selenium==4.15.2
+beautifulsoup4==4.12.2
+tqdm==4.66.1
+webdriver-manager==4.0.1
+python-dotenv==1.0.0  # 可选，用于环境变量管理

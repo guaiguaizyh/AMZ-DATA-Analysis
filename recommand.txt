@@ -1,0 +1,4 @@
+1.asins文档是放需要提取信息的ASIN
+2.output是抓取出来后的文件存放地址
+3.run_asins是运行的脚本
+ps：该脚本只抓取info信息~
